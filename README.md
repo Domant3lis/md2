@@ -1,6 +1,7 @@
 # MD2
 
 This just a simple library which creates MD2 hashes
+
 MD2 hashes are considered insecure and should be deprecated and not be used, I've created and packaged this just as an exercise for fun.
 
 ## Installation
