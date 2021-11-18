@@ -2,7 +2,7 @@
 
 This just a simple library which creates MD2 hashes
 
-⚠️ MD2 hashes are considered **insecure** and should **not** be used, I've created and packaged this just as an exercise for fun.
+⚠️ MD2 hashes are considered **insecure** and should **not** be used, I've created and packaged this just as an exercise for fun and learning.
 
 ## Installation
 
