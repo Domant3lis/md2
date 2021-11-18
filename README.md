@@ -24,7 +24,7 @@ require "md2"
 
 ## Contributing
 
-1. Fork it (<https://github.com/domant3lis/md2/fork>)
+1. Fork it (<https://github.com/domant3lis/md2.git>)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the main branch (`git push origin main`)
 5. Create a new Pull Request
